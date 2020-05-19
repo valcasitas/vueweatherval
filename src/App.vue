@@ -90,6 +90,9 @@ body{
 
 #app.warm{
   background-image: url('./assets/Sunny.jpg');
+  background-size: cover;
+  background-position: bottom;
+  transition: 0.4s;
 }
 
 main {
